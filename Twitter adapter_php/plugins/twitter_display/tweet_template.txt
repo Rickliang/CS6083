@@ -11,11 +11,17 @@
         title="[user_mention_title]">[screen_name]</a>
       <span class="tweet_name">[name]</span>
     </div>
+    <div class="nlp_btn">
+	<FORM>
+	    <INPUT TYPE="button" value=SentimentAnalyze onClick="parent.location='examples/demo.php?txt=[nlp_link]'">
+	</FORM>
+    </div>
     <div class="tweet_text">[tweet_text]
       <div class="tweet_date">
         <a href="http://twitter.com/[screen_name]/status/[tweet_id]" 
           title="[tweet_display_title]">[created_at]</a>
       </div>
     </div>
+    
   </div>
 </div><hr>

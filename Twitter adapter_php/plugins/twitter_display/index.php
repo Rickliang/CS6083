@@ -12,7 +12,7 @@
 </head>
 <body>
  <h2>Twitter display adapter</h2>
- <p>tweets list</p>
+ <p>tweets list 表</p>
 <?php require('twitter_display.php'); ?>
 
 </body>

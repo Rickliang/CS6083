@@ -50,6 +50,9 @@
 	color: #808080;
 	padding-left: 10px;
 }
+.nlp_btn {
+	margin: 10px 0;
+}
 .tweet_text {
 	font-size: 100%;
 }
@@ -96,4 +99,4 @@
 	-webkit-border-radius:6px;
 	-khtml-border-radius:6px;
 	border-radius:6px;
-} 
+}
